@@ -1,0 +1,18 @@
+# Ignore class files
+*.class
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# VS Code settings
+.vscode/
+
+# IntelliJ / IDEA stuff
+.idea/
+*.iml
+
+# Java backup files
+*.jar
+*.war
+*.ear
